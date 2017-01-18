@@ -1,0 +1,13 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table.mdl-data-table.mdl-js-data-table.mdl-data-table.mdl-shadow--2dp {
+  position: relative;
+  top: 3em;
+  width: 90%;
+}
